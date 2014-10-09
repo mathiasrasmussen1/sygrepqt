@@ -8,7 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <AppBarToggleButton HorizontalAlignment="Left" Icon="Accept" Label="AppBarToggleButton" Margin="667,272,0,0" VerticalAlignment="Top"/>
+        <AppBarToggleButton HorizontalAlignment="Right" Icon="Accept" Label="AppBarToggleButton" Margin="667,272,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
